@@ -43,7 +43,7 @@ The Environment Monitor system is designed to simulate and monitor environmental
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/Barry3wooda/Environment-Monitor
+    git clone https://github.com/AhmesFathi/Environment-Monitor
     cd EnvironmentMonitor
     ```
 
