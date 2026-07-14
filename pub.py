@@ -4,7 +4,7 @@ import random
 import json
 from sensors_data import generate_air_quality_data, generate_temperature_data, generate_humidity_data
 
-#broker configuration
+#broker configuratio
 
 broker_address = "localhost" 
 port = 1883
