@@ -4,7 +4,7 @@ import mysql.connector
 from neo4j import GraphDatabase
 import json
 
-# Database connections
+# Database connection
 mongo_conn = MongoClient("mongodb://localhost:27017/")
 print("Connected to MongoDB")
 
