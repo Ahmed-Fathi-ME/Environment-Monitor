@@ -10,7 +10,7 @@ def generate_air_quality_data():
         "pm10": round(random.uniform(0, 150), 2),
         "timestamp": time.strftime("%Y-%m-%d %H:%M:%S")
     }
-
+#sensor data
 def generate_temperature_data():
     sensor_id = random.randint(1, 5)
     return {
